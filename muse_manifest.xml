@@ -1,7 +1,7 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1416579823454">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1416659776866">
   <folder name="css">
     <file name="site_global.css" crc="3777184675"/>
-    <file name="index.css" crc="209192913" ref="index"/>
+    <file name="index.css" crc="458726370" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index"/>
@@ -11,6 +11,7 @@
     <file name="musewpslideshow.js" crc="274584885" ref="index"/>
     <file name="jquery.museoverlay.js" crc="170414611" ref="index"/>
     <file name="touchswipe.js" crc="100683906" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
     <file name="cats-and-macbook-wallpapers_35254_1920x1200.jpg" crc="4200455184" ref="index"/>
@@ -20,6 +21,8 @@
     <file name="baidu-u299.png" crc="3835528907" ref="index"/>
     <file name="logo_google_2013_official.png" crc="383787950" ref="index"/>
     <file name="tencent_logo-crop-u227.png" crc="4278457626" ref="index"/>
+    <file name="macbook-air-2.jpg" crc="106834932" ref="index"/>
+    <file name="portrait220.png" crc="3991497508" ref="index"/>
   </folder>
-  <file name="index.html" crc="4113762182" mt="1416576921293" redirect="true"/>
+  <file name="index.html" crc="334961061" mt="1416659725278" redirect="true"/>
 </manifest>
