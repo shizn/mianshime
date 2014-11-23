@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 <manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1416753034758">
   <folder name="css">
     <file name="site_global.css" crc="3777184675"/>
     <file name="index.css" crc="351675046" ref="index"/>
+=======
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1416659776866">
+  <folder name="css">
+    <file name="site_global.css" crc="3777184675"/>
+    <file name="index.css" crc="458726370" ref="index"/>
+>>>>>>> gh-pages
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index"/>
@@ -23,6 +30,7 @@
     <file name="tencent_logo-crop-u227.png" crc="4278457626" ref="index"/>
     <file name="macbook-air-2.jpg" crc="106834932" ref="index"/>
     <file name="portrait220.png" crc="3991497508" ref="index"/>
+<<<<<<< HEAD
     <file name="u368-8.png" crc="224554831" ref="index"/>
     <file name="u405-4.png" crc="4185568717" ref="index"/>
     <file name="u-p66.png" crc="4173232203" ref="index"/>
@@ -40,4 +48,8 @@
     <file name="u471-9.png" crc="322401933" ref="index"/>
   </folder>
   <file name="index.html" crc="3838329237" mt="1416753006966" redirect="true"/>
+=======
+  </folder>
+  <file name="index.html" crc="334961061" mt="1416659725278" redirect="true"/>
+>>>>>>> gh-pages
 </manifest>
