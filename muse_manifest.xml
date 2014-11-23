@@ -1,7 +1,7 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1416579823454">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1416753034758">
   <folder name="css">
     <file name="site_global.css" crc="3777184675"/>
-    <file name="index.css" crc="209192913" ref="index"/>
+    <file name="index.css" crc="351675046" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index"/>
@@ -11,6 +11,7 @@
     <file name="musewpslideshow.js" crc="274584885" ref="index"/>
     <file name="jquery.museoverlay.js" crc="170414611" ref="index"/>
     <file name="touchswipe.js" crc="100683906" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
     <file name="cats-and-macbook-wallpapers_35254_1920x1200.jpg" crc="4200455184" ref="index"/>
@@ -20,6 +21,23 @@
     <file name="baidu-u299.png" crc="3835528907" ref="index"/>
     <file name="logo_google_2013_official.png" crc="383787950" ref="index"/>
     <file name="tencent_logo-crop-u227.png" crc="4278457626" ref="index"/>
+    <file name="macbook-air-2.jpg" crc="106834932" ref="index"/>
+    <file name="portrait220.png" crc="3991497508" ref="index"/>
+    <file name="u368-8.png" crc="224554831" ref="index"/>
+    <file name="u405-4.png" crc="4185568717" ref="index"/>
+    <file name="u-p66.png" crc="4173232203" ref="index"/>
+    <file name="tuntown12-crop-u420.jpg" crc="480678952" ref="index"/>
+    <file name="u419-4.png" crc="346828396" ref="index"/>
+    <file name="u426-6.png" crc="368977452" ref="index"/>
+    <file name="u428-4.png" crc="318337048" ref="index"/>
+    <file name="u439-4.png" crc="497533413" ref="index"/>
+    <file name="u442-4.png" crc="4248018879" ref="index"/>
+    <file name="u444-4.png" crc="396067578" ref="index"/>
+    <file name="u447-4.png" crc="26753773" ref="index"/>
+    <file name="u445-4.png" crc="4205095930" ref="index"/>
+    <file name="u469-4.png" crc="3783890182" ref="index"/>
+    <file name="u468-4.png" crc="4168863759" ref="index"/>
+    <file name="u471-9.png" crc="322401933" ref="index"/>
   </folder>
-  <file name="index.html" crc="4113762182" mt="1416576921293" redirect="true"/>
+  <file name="index.html" crc="3838329237" mt="1416753006966" redirect="true"/>
 </manifest>
